@@ -1,0 +1,61 @@
+Random seed set to: 1762052299
+
+# Isotope yields in Super-Kamiokande simulation
+# Units: 10^-7 g^-1 cm^2 μ^-1 (per muon, per path length)
+# Total muons: 100000
+# Stopping muons in FV: 4967 (4.967%)
+# Total path length in FV: 3.21198e+08 cm
+# Average path length per muon: 3211.98 cm
+
+Z	A	Isotope	Half-life(s)	Decay_Mode	Count	Yield_Total	Yield_E>3.5MeV	Primary_Process
+0	1	1_0	stable	unknown	200235	6234.01	6234.01	neutronInelastic
+1	3	triton	388523456.526625	unknown	5587	173.943	173.943	photonNuclear
+2	3	He3	stable	unknown	4177	130.044	130.044	photonNuclear
+2	4	alpha	stable	unknown	193774	6032.85	6032.85	photonNuclear
+2	5	He5	0.000000	unknown	16	0.498135	0.498135	pi+Inelastic
+2	6	He6	0.806700	unknown	175	5.44836	5.44836	hBertiniCaptureAtRest
+2	7	He7	0.000000	unknown	2	0.0622669	0.0622669	neutronInelastic
+2	8	He8	0.119100	unknown	3	0.0934004	0.0934004	hBertiniCaptureAtRest
+3	4	Li4	stable	unknown	3	0.0934004	0.0934004	kaon+Inelastic
+3	5	Li5	0.000000	unknown	45	1.40101	1.40101	pi+Inelastic
+3	6	Li6	stable	unknown	1056	32.8769	32.8769	photonNuclear
+3	7	Li7	stable	unknown	740	23.0388	23.0388	photonNuclear
+3	8	Li8	0.839900	beta-	50	1.55667	1.55667	hBertiniCaptureAtRest
+3	9	Li9	0.178300	beta-	10	0.311335	0.311335	neutronInelastic
+4	6	Be6	0.000000	unknown	33	1.0274	1.0274	photonNuclear
+4	7	Be7	4598208.084165	unknown	302	9.4023	9.4023	photonNuclear
+4	8	Be8	0.000000	unknown	6609	205.761	205.761	neutronInelastic
+4	9	Be9	stable	unknown	472	14.695	14.695	photonNuclear
+4	10	Be10	47651976371693.312500	unknown	426	13.2629	13.2629	neutronInelastic
+4	11	Be11	13.759997	beta-	9	0.280201	0.280201	hBertiniCaptureAtRest
+4	12	Be12	0.021460	unknown	13	0.404735	0.404735	hBertiniCaptureAtRest
+5	7	B7	0.000000	unknown	1	0.0311335	0.0311335	pi+Inelastic
+5	8	B8	0.770000	unknown	5	0.155667	0.155667	photonNuclear
+5	9	B9	0.000000	unknown	78	2.42841	2.42841	neutronInelastic
+5	10	B10	stable	unknown	2543	79.1724	79.1724	photonNuclear
+5	11	B11	stable	unknown	4084	127.149	127.149	photonNuclear
+5	12	B12	0.020200	beta-	147	4.57662	4.57662	hBertiniCaptureAtRest
+5	13	B13	0.017330	unknown	112	3.48695	3.48695	hBertiniCaptureAtRest
+5	14	B14	0.012500	unknown	3	0.0934004	0.0934004	hBertiniCaptureAtRest
+6	9	C9	0.126500	unknown	1	0.0311335	0.0311335	neutronInelastic
+6	10	C10	19.290002	unknown	112	3.48695	3.48695	pi+Inelastic
+6	11	C11	1221.840341	beta+	1558	48.5059	48.5059	photonNuclear
+6	12	C12	stable	unknown	48725	1516.98	1516.98	photonNuclear
+6	13	C13	stable	unknown	8907	277.306	277.306	neutronInelastic
+6	14	C14	179878347568.239166	unknown	5101	158.812	158.812	neutronInelastic
+6	15	C15	2.449000	beta-	16	0.498135	0.498135	neutronInelastic
+6	16	C16	0.747000	unknown	1	0.0311335	0.0311335	protonInelastic
+7	10	N10	0.000000	unknown	1	0.0311335	0.0311335	pi+Inelastic
+7	11	N11	0.000000	unknown	3	0.0934004	0.0934004	pi+Inelastic
+7	12	N12	0.011000	unknown	45	1.40101	1.40101	neutronInelastic
+7	13	N13	597.900024	unknown	1797	55.9468	55.9468	neutronInelastic
+7	14	N14	stable	unknown	18371	571.953	571.953	neutronInelastic
+7	15	N15	stable	unknown	27687	861.992	861.992	neutronInelastic
+7	16	N16	7.130003	beta-	499	15.5356	15.5356	neutronInelastic
+8	12	O12	0.000000	unknown	1	0.0311335	0.0311335	photonNuclear
+8	13	O13	0.008580	unknown	30	0.934004	0.934004	pi+Inelastic
+8	14	O14	70.605982	unknown	745	23.1944	23.1944	neutronInelastic
+8	15	O15	122.239971	beta+	10642	331.322	331.322	neutronInelastic
+9	15	F15	0.000000	unknown	7	0.217934	0.217934	kaon0LInelastic
+9	16	F16	0.000000	unknown	16	0.498135	0.498135	protonInelastic
+10	16	Ne16	0.000000	unknown	1	0.0311335	0.0311335	pi+Inelastic
